@@ -9,11 +9,11 @@
 * *Опис логічної структури* :
    * Функція `main`. Формує масив с заданої кількості елементів з випадковими значенями від -10 до 10. Викликає функцію `sort_array`. Схема алгоритму функції:
 
-     ![enter image description here](assets/correct.png)
+     ![enter image description here](assets/flowchart_main.png)
 
    * Функція `sort_array`. Сортує масив методом "бульбашки". Параметри: n - розмір масиву; arr - масив; flag: true - від меншого до більшого, false - від більшого до меншого. Схема алгоритму функції:
 
-     ![Схема алгоритму функції  sort_array](assets/pract1_2draw.png)
+     ![Схема алгоритму функції  sort_array](flowchart_sort_array.png)
 
 * *Структура програми*:
 ```
